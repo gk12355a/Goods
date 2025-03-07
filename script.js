@@ -1,4 +1,4 @@
-const apiUrl = "http://13.236.194.209:5238/api/HangHoa";
+const apiUrl = "http://localhost:5238/api/HangHoa";
 
 // 🟢 Lấy danh sách hàng hóa từ API
 async function fetchGoods() {
