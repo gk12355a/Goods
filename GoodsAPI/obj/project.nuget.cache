@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Osm89TgHTs4=",
+  "dgSpecHash": "styhkbpnLeQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\dELL\\Documents\\Projects\\GoodsAPI\\GoodsAPI.csproj",
+  "projectFilePath": "C:\\Users\\dELL\\Documents\\Projects\\Goods\\GoodsAPI\\GoodsAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dELL\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\dELL\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

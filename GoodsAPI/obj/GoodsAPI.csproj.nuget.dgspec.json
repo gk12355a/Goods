@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dELL\\Documents\\Projects\\GoodsAPI\\GoodsAPI.csproj": {}
+    "C:\\Users\\dELL\\Documents\\Projects\\Goods\\GoodsAPI\\GoodsAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dELL\\Documents\\Projects\\GoodsAPI\\GoodsAPI.csproj": {
+    "C:\\Users\\dELL\\Documents\\Projects\\Goods\\GoodsAPI\\GoodsAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dELL\\Documents\\Projects\\GoodsAPI\\GoodsAPI.csproj",
+        "projectUniqueName": "C:\\Users\\dELL\\Documents\\Projects\\Goods\\GoodsAPI\\GoodsAPI.csproj",
         "projectName": "GoodsAPI",
-        "projectPath": "C:\\Users\\dELL\\Documents\\Projects\\GoodsAPI\\GoodsAPI.csproj",
+        "projectPath": "C:\\Users\\dELL\\Documents\\Projects\\Goods\\GoodsAPI\\GoodsAPI.csproj",
         "packagesPath": "C:\\Users\\dELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dELL\\Documents\\Projects\\GoodsAPI\\obj\\",
+        "outputPath": "C:\\Users\\dELL\\Documents\\Projects\\Goods\\GoodsAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
