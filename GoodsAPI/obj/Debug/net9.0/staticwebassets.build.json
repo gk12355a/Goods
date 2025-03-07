@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "BPmq5xqBU10YHtOVK9Ksf+lTl0/vXl0yZIEUIW885pE=",
+  "Source": "GoodsAPI",
+  "BasePath": "_content/GoodsAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

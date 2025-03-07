@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quản Lý Hàng Hóa</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Quản Lý Hàng Hóa</h1>
+
+    <form id="addForm">
+        <input type="text" id="maHangHoa" placeholder="Mã hàng hóa" required>
+        <input type="text" id="tenHangHoa" placeholder="Tên hàng hóa" required>
+        <input type="number" id="soLuong" placeholder="Số lượng" required>
+        <input type="text" id="ghiChu" placeholder="Ghi chú">
+        <button type="submit">Thêm hàng hóa</button>
+    </form>
+
+    <h2>Danh Sách Hàng Hóa</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Mã</th>
+                <th>Tên</th>
+                <th>Số lượng</th>
+                <th>Ghi chú</th>
+                <th>Hành động</th>
+            </tr>
+        </thead>
+        <tbody id="goodsList"></tbody>
+    </table>
+
+    <script src="script.js"></script>
+</body>
+</html>
